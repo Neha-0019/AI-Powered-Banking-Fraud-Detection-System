@@ -1,0 +1,22 @@
+# AI-Powered Banking Fraud Detection System
+# Python 3.10+
+
+# Data Science
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.18.0
+
+# Optional ML (uncomment if needed)
+# xgboost>=2.0.0
+
+# Web Interface
+streamlit>=1.29.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.0.0

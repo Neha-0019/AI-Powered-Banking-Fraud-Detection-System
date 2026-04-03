@@ -1,0 +1,19 @@
+# Git ignore for Fraud Detection Project
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Data and Models (Large files)
+models/*.pkl
+dataset/*.csv
+dataset/*.zip
+dataset/train_transaction.csv
+dataset/train_identity.csv
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
