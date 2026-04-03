@@ -233,6 +233,4 @@ Future improvements: SMOTE/oversampling, XGBoost, deep learning, and integration
 - **Models:** Isolation Forest, Random Forest
 - **UI:** Streamlit
 
----
 
-**Author:** B.Tech CS Student • **Use case:** Portfolio & Academic Project
