@@ -6,7 +6,7 @@ venv/
 .venv/
 *.egg-info/
 .eggs/
-
+.env
 # Jupyter
 .ipynb_checkpoints/
 
